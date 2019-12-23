@@ -20,14 +20,15 @@ func download() {
 	fmt.Println(publicAccessURL)
 }
 
-func upload() {
+func upload(localFile, key string) {
+
 	accessKey := "oLvb2EEL238a-jivZsQpZn7pqJvncY2HqzWA9VnS"
 	secretKey := "vvW9hwoML0l1HBrT3x1KFrtp4ai05OKDFAy2jKrc"
+	bucket := "levonfly1"
 
-	var localFile, bucket, key string
-	localFile = "/Users/liuwei/Downloads/1.jpg"
-	bucket = "levonfly1"
-	key = "a/32/3232/1.jpg"
+	// accessKey := "u3SrAzgMe20hwv3Xz5aXwT5qPpxT6yXrnNxPjakY"
+	// secretKey := "lmGQ3Nk2k4cgsB339SZ7vbh55wva06p23sM01pNW"
+	// bucket:= "fhyx-preview",
 
 	putPolicy := storage.PutPolicy{
 		Scope: bucket,
@@ -46,11 +47,7 @@ func upload() {
 	formUploader := storage.NewFormUploader(&cfg)
 	ret := storage.PutRet{}
 	// 可选配置
-	putExtra := storage.PutExtra{
-		Params: map[string]string{
-			"x:name": "github logo",
-		},
-	}
+	putExtra := storage.PutExtra{}
 	err := formUploader.PutFile(context.Background(), &ret, upToken, key, localFile, &putExtra)
 	if err != nil {
 		fmt.Println(err)
