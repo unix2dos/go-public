@@ -8,6 +8,7 @@ require (
 	github.com/qiniu/x v7.0.8+incompatible // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/stretchr/testify v1.2.2 // indirect
+	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9 // indirect
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
 	qiniupkg.com/x v7.0.8+incompatible // indirect
 )
