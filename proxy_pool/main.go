@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	proxy, err := url.Parse("http://101.200.199.4:3128")
+	proxy, err := url.Parse("")
 	if err != nil {
 		log.Fatal(err)
 	}
