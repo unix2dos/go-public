@@ -30,6 +30,10 @@ func main() {
 		str = strings.ToLower(str)
 		str = str[0:len(str)-4]
 
+		if str[0] == str[len(str)-1]{
+			//fmt.Println("首尾", str)
+		}
+
 
 		max := 0
 		maxA := ""
@@ -41,18 +45,21 @@ func main() {
 				maxA = a
 			}
 		}
-		if max > 3{
 
 
-			if head == str[0] {
-				count++
-			}else{
-				fmt.Println("--------------------------",string(head),count)
-				head = str[0]
-				count=1
-			}
 
+		if max > 4{
 
+			//if head == str[0] {
+			//	count++
+			//}else{
+			//	fmt.Println("--------------------------",string(head),count)
+			//	head = str[0]
+			//	count=1
+			//}
+			//
+			_ = head
+			_= count
 			fmt.Println(str,max,maxA)
 		}
 	}
