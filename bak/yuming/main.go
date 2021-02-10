@@ -34,7 +34,6 @@ func main() {
 			//fmt.Println("首尾", str)
 		}
 
-
 		max := 0
 		maxA := ""
 		for i := 'a'; i <= 'z'; i++ {
@@ -49,7 +48,6 @@ func main() {
 
 
 		if max > 4{
-
 			//if head == str[0] {
 			//	count++
 			//}else{
@@ -57,7 +55,6 @@ func main() {
 			//	head = str[0]
 			//	count=1
 			//}
-			//
 			_ = head
 			_= count
 			fmt.Println(str,max,maxA)
