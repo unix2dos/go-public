@@ -29,8 +29,11 @@ func main() {
 		str = str[0:len(str)-3]
 
 
-		max := letterMaxCount(str)
-		if max > 2{
+		//max := letterRepeatCount(str)
+		//if max > 2{
+		//	fmt.Println(str)
+		//}
+		if  !letterHasYunMu(str){
 			fmt.Println(str)
 		}
 	}
@@ -45,7 +48,7 @@ func shouwei(str string) bool{
 }
 
 
-func letterMaxCount(str string) int{
+func letterRepeatCount(str string) int{
 	max := 0
 	for i := 'a'; i <= 'z'; i++ {
 		a := string(i)
@@ -55,4 +58,17 @@ func letterMaxCount(str string) int{
 		}
 	}
 	return max
+}
+
+
+func letterHasYunMu(str string) bool{
+	if strings.Contains(str,"a") ||
+		strings.Contains(str,"o")||
+		strings.Contains(str,"e")||
+		strings.Contains(str,"i")||
+		strings.Contains(str,"u")||
+		strings.Contains(str,"v"){
+		return true
+	}
+	return false
 }
