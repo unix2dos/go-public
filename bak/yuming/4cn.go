@@ -26,16 +26,16 @@ func main() {
 		}
 		str := string(a)
 		str = strings.ToLower(str)
-		str = str[0:len(str)-3]
 
-
+		// > 2的没有
 		//max := letterRepeatCount(str)
-		//if max > 2{
+		//if max >= 2{
 		//	fmt.Println(str)
 		//}
-		if  !letterHasYunMu(str){
-			fmt.Println(str)
-		}
+		// 无
+		//if  !letterHasYunMu(str){
+		//	fmt.Println(str)
+		//}
 	}
 }
 
