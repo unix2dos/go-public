@@ -2,18 +2,19 @@ package main
 
 import (
 	"fmt"
+
+	"google.golang.org/genproto/googleapis/datastore/admin/v1"
 )
 
-func main() {
-	func() { // 必须要先声明defer，否则不能捕获到panic异常
-		fmt.Println("a")
-		if err := recover(); err != nil {
-			fmt.Println(err)
-		}
-		fmt.Println("b")
-	}()
+type stu struct {
+	Name string
+}
 
-	panic("异常信息")
-
-	fmt.Println("c")
+func aa(v interface{}) {
+	a := v.(type)
+	fmt.Print(a)
+	switch a:= v.(type) {
+	case *stu,stu:
+		a.Name
+	}
 }

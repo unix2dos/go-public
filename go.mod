@@ -13,6 +13,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
 	golang.org/x/image v0.0.0-20200927104501-e162460cd6b5 // indirect
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
+	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
 	qiniupkg.com/x v7.0.8+incompatible // indirect
 )
 
