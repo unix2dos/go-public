@@ -14,7 +14,7 @@ import (
 
 const (
 	// 是否测试环境
-	isTest bool = true
+	isTest bool = false
 
 	// 测试环境
 	TestMongoLink = "mongodb://poros_c:PKWyKN512EbNswf4XNBjXehDM2cNjxwR@s-2ze804aac801b914-pub.mongodb.rds.aliyuncs.com:3717/jinquan"
@@ -37,7 +37,7 @@ func GetUser(client *mongo.Client) {
 	}
 	conn := client.Database(mongoDB).Collection("user")
 	var result bson.M
-	filter := bson.M{"_id": "1572211991"}
+	filter := bson.M{"_id": "284650506241"}
 	err := conn.FindOne(context.Background(), filter).Decode(&result)
 	a, _ := json.Marshal(result)
 	fmt.Println("res:", string(a))
