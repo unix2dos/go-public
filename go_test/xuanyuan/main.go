@@ -111,14 +111,14 @@ func RW(dir string, name string) {
 			ans += fmt.Sprintf("%s %s\n", an.Name, an.Text)
 		}
 
-		okText := fmt.Sprintf("答：%s，%s", v.Answer, v.Analyze)
+		okText := fmt.Sprintf("**答：%s，%s**", v.Answer, v.Analyze)
 		allText := title + "\n" + ans + "\n" + okText + "\n\n"
 		totalText += allText
 	}
 
 	{
 		// 创建一个新文件，如果文件已存在则覆盖
-		file, err := os.Create(strings.Replace(name, ".json", ".txt", -1))
+		file, err := os.Create(strings.Replace(name, ".json", ".md", -1))
 		if err != nil {
 			fmt.Println("Error creating file:", err)
 			return
