@@ -68,13 +68,13 @@ func main() {
 			return nil
 		}
 		// 打印文件名
-		RW(dir, info.Name())
+		RW_kaoshi(dir, info.Name())
 		return nil
 	})
 
 }
 
-func RW(dir string, name string) {
+func RW_study(dir string, name string) {
 	filename := dir + name
 
 	file, err := os.Open(filename)
@@ -113,6 +113,67 @@ func RW(dir string, name string) {
 
 		okText := fmt.Sprintf("**答：%s，%s**", v.Answer, v.Analyze)
 		allText := title + "\n" + ans + "\n" + okText + "\n\n"
+		totalText += allText
+	}
+
+	{
+		// 创建一个新文件，如果文件已存在则覆盖
+		file, err := os.Create(strings.Replace(name, ".json", ".md", -1))
+		if err != nil {
+			fmt.Println("Error creating file:", err)
+			return
+		}
+		defer file.Close()
+
+		// 写入内容到文件中
+		_, err = file.WriteString(totalText)
+		if err != nil {
+			fmt.Println("Error writing to file:", err)
+			return
+		}
+	}
+}
+
+func RW_kaoshi(dir string, name string) {
+	filename := dir + name
+
+	file, err := os.Open(filename)
+	if err != nil {
+		fmt.Println("Error opening file:", err)
+		return
+	}
+	defer file.Close()
+
+	// 读取文件内容
+	data, err := ioutil.ReadAll(file)
+	if err != nil {
+		fmt.Println("Error reading file:", err)
+		return
+	}
+
+	// 解析JSON数据
+	var content Content
+	err = json.Unmarshal(data, &content)
+	if err != nil {
+		fmt.Println("Error unmarshalling JSON:", err)
+		return
+	}
+
+	// 输出解析结果
+	index := 0
+	totalText := "\n\n\n---\n"
+	for _, v := range content.Data.Lists {
+		index++
+		title := fmt.Sprintf("%d: %s", index, v.Name)
+
+		var ans string
+		for _, an := range v.Option {
+			if v.Answer == an.Name {
+				ans += fmt.Sprintf("**%s %s**\n", an.Name, an.Text)
+			}
+		}
+
+		allText := title + "\n" + ans + "\n"
 		totalText += allText
 	}
 
