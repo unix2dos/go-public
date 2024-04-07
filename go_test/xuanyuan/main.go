@@ -179,7 +179,7 @@ func RW_kaoshi(dir string, name string) {
 
 	{
 		// 创建一个新文件，如果文件已存在则覆盖
-		file, err := os.Create(strings.Replace(name, ".json", ".md", -1))
+		file, err := os.Create(strings.Replace(name, ".json", "_kaoshi.md", -1))
 		if err != nil {
 			fmt.Println("Error creating file:", err)
 			return
