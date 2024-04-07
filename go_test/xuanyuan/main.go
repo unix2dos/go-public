@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"path/filepath"
+	"strings"
 )
 
 type Content struct {
@@ -53,8 +55,27 @@ type Content struct {
 func main() {
 	// 打开JSON文件
 	dir := "dir/"
-	name := "押题_实践_A1"
-	filename := dir + name + ".json"
+
+	// 使用Walk函数遍历文件夹
+	filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
+		// 错误处理
+		if err != nil {
+			fmt.Printf("Error accessing path %q: %v\n", path, err)
+			return err
+		}
+		// 忽略文件夹本身
+		if path == dir {
+			return nil
+		}
+		// 打印文件名
+		RW(dir, info.Name())
+		return nil
+	})
+
+}
+
+func RW(dir string, name string) {
+	filename := dir + name
 
 	file, err := os.Open(filename)
 	if err != nil {
@@ -97,7 +118,7 @@ func main() {
 
 	{
 		// 创建一个新文件，如果文件已存在则覆盖
-		file, err := os.Create(name + ".txt")
+		file, err := os.Create(strings.Replace(name, ".json", ".txt", -1))
 		if err != nil {
 			fmt.Println("Error creating file:", err)
 			return
