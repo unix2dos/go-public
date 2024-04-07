@@ -101,7 +101,7 @@ func RW(dir string, name string) {
 
 	// 输出解析结果
 	index := 0
-	var totalText string
+	totalText := "\n\n\n---\n"
 	for _, v := range content.Data.Lists {
 		index++
 		title := fmt.Sprintf("%d: %s", index, v.Name)
