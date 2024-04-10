@@ -68,7 +68,7 @@ func main() {
 			return nil
 		}
 		// 打印文件名
-		RW_kaoshi(dir, info.Name())
+		RW_study(dir, info.Name())
 		return nil
 	})
 
