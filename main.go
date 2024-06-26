@@ -1,5 +1,6 @@
 package main
 
+<<<<<<< HEAD
 import (
 	"context"
 	"fmt"
@@ -89,4 +90,7 @@ func main() {
 	}
 
 	log.Println("Server exiting")
+=======
+func main() {
+>>>>>>> 872bfde7b2978a94e4a04ec0777a615955aac8da
 }

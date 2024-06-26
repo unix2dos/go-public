@@ -1,0 +1,4521 @@
+{
+  "code": 1,
+  "msg": "获取成功",
+  "data": {
+    "info": {
+      "id": 3377,
+      "basic_type": 4,
+      "title": "（火）护理学：考前机密提分库",
+      "type": 1,
+      "price": "380.00",
+      "status": 1,
+      "chapter_id": 319980,
+      "chapter_name": "《批次—专业实践能力A1》",
+      "top_name": "《批次押题—专业实践能力》",
+      "sequence_type": 1
+    },
+    "lists": [
+      {
+        "id": 594677,
+        "name": "关于二尖瓣关闭不全病人的听诊，最有意义的表现是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "心尖部舒张期叹气样杂音"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "第1心音减弱"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "心尖部收缩期吹风样杂音"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "第1心音增强"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "心尖部舒张期隆隆样杂音"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "听诊心尖部收缩期杂音是二尖瓣关闭不全最主要的体征，典型者为较粗糙全收缩期吹风样杂音。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594678,
+        "name": "关于急性心肌梗死引起室性心律失常的治疗药物，首选",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "地高辛"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "奎尼丁"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "利多卡因"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "普萘洛尔"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "维拉帕米"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "发现室性期前收缩或室性心动过速，立即用利多卡因50～100mg静注，每5～10分钟重复1次，至期前收缩消失或总量达300mg，继以1～3mg/min 静滴维持，如室性心律失常反复发作者可用胺碘酮。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594679,
+        "name": "法洛四联症患儿出现缺氧发作时，与抢救无关的护理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "置患儿膝胸卧位"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "静脉注射普萘洛尔"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "给予高浓度氧气吸入"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "给予抗生素预防感染"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "遵医嘱给予吗啡等药物"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "缺氧发作时，应该置患儿膝胸卧位，缓解缺氧；给予高浓度氧气吸入并保持患儿安静；皮下注射吗啡，可抑制呼吸中枢，降低其对C0₂的敏感性，消除呼吸急促；静脉应用碳酸氢钠，改善酸中毒；重者可以缓慢静脉滴注β受体阻滞剂普萘洛尔，减慢心率。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594680,
+        "name": "对小儿泌尿道感染的护理措施，不正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "急性期卧床休息"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "鼓励患儿大量饮水"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "婴幼儿勤换尿布"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "幼儿不穿开裆裤"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "女婴从后向前清洗外阴"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "为预防小儿泌尿道感染，女婴清洗外阴时应从前向后清洗。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594681,
+        "name": "流行性腮腺炎的易感人群主要是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "婴儿"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "幼儿"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "学龄前儿童"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "学龄儿童"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "青春期儿童"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "本病传染性较强，主要发生在儿童和\n青少年。我国2018～2019年的报告病例中，5～9岁年龄组发病率最高，占总病例数的近40%。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594682,
+        "name": "慢性肺源性心脏病急性加重期病人应慎用",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "抗感染药物"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "呼吸兴奋药"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "解痉平喘药"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "祛痰药"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "镇静药"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "慢性肺源性心脏病急性加重期病人应慎用催眠药、镇静药，以免诱发或加重肺性脑病。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594683,
+        "name": "弥散性血管内凝血（DIC）患者抗凝疗法的治疗和护理，错误的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "使用肝素前测凝血时间"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "高凝期，肝素使用越早效果越好"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "肝素过量可用鱼精蛋白拮抗"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "快速输入鱼精蛋白"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "注意变态反应的发生"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "出血是应用肝素时最常见的不良反应，肝素过量时可缓慢静脉注射鱼精蛋白拮抗（选D，不选C）。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594684,
+        "name": "高血压病人饮食护理中钠盐的摄入量应为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "＜3g/d"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "＜4g/d"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "＜5g/d"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "＜6g/d"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "＜7g/d"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "高血压饮食护理要求减少钠盐的摄入，每日钠盐摄入量应低于6g。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594685,
+        "name": "消化性溃疡病人最常见的并发症是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "穿孔"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "出血"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "幽门梗阻"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "癌变"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "感染"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "消化性溃疡的并发症有出血、穿孔、幽门梗阻、癌变。出血是消化性溃疡最常见的并发症。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594686,
+        "name": "关于门静脉高压症的诊断，最具价值的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "脾大"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "腹水"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "黄疸"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "食管-胃底静脉曲张"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "肝功能不全"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肝硬化门静脉高压的三大表现：①脾大；②侧支循环的建立和开放；③腹水，是肝硬化失代偿期最显著的临床表现。侧支循环的建立和开放是门静脉高压的独特表现，是诊断门静脉高压症的重要依据，主要表现为食管-胃底静脉曲张、脐周或腹壁静脉曲张、痔静脉曲张。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594687,
+        "name": "肺炎链球菌最重要的致病因素是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "蛋白水解酶"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "荚膜侵袭性"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "外毒素"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "内毒素"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "炎症因子"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肺炎链球菌不产生毒素，不引起原发性组织坏死或形成空洞，其致病力是由于多糖荚膜对组织的侵袭作用。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594688,
+        "name": "新生儿寒冷损伤综合征的特征性表现是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "皮肤冷、硬、肿"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "不吃、不哭、不动"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "不吃、不哭、体温不升、黄疸"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "不吃、不哭、体温不升、尿少"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "不吃、不哭、体温不升、呼吸急促不规则"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "新生儿寒冷损伤综合征的临床主要特点是低体温和皮肤硬肿。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594689,
+        "name": "住院儿童开始出现分离性焦虑的年龄阶段是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "婴儿期"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "幼儿期"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "学龄前期"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "学龄期"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "青春期"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "5～6个月大的婴儿开始意识到自己是独立于母亲的个体，他们能够意识到与父母或主要照顾者的分离，也会害怕陌生人。但对疾病缺乏认识。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594690,
+        "name": "关于轮状病毒引起腹泻的特点，下列叙述错误的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "粪便腥臭味"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "多见于秋季腹泻"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "中毒症状不明显"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "常伴有上呼吸道感染"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "多见于出生后6个月至2岁的小儿"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "轮状病毒肠炎：冬秋季节流行，呈散发或小流行，经粪-口传播，潜伏期为1～3天，常伴有上呼吸道感染症状，粪便量多，呈黄色或淡黄色，水样或蛋花汤样，无腥臭味，大便镜检偶有少量白细胞。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594691,
+        "name": "补足累计损失量的时间为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "2～4小时"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "4～6小时"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "6～8小时"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "8～12小时"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "24小时内"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "累积损失应于8～12小时补足，为每小时8～10ml/kg。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594692,
+        "name": "癌症病人化疗期间白细胞计数降至1×10⁹/L时，应",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "加强营养"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "进行保护性隔离"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "少量输血"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "减少用药量"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "暂停用药"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "化疗病人当血小板计数低于80×10⁹/L、白细胞计数低于1×10⁹/L时，应做好保护性隔离，预防交叉感染。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594693,
+        "name": "多根多处肋骨骨折发生连枷胸后，急救方法是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "吸氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "加压包扎固定胸壁"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "肋骨牵引固定"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "应用胸腔闭式引流"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "镇痛"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "可用厚棉垫加压包扎固定软化的胸壁，以减轻或消除胸壁的反常呼吸运动，从而缓解或减少对呼吸与血液循环的影响。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594694,
+        "name": "指导慢性阻塞性肺疾病病人进行呼吸功能锻炼的方法是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "加强胸式呼吸，用鼻吸气，经口用力快速呼气"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "加强腹式呼吸，用鼻深吸，经口缓呼，呼气时口唇收拢"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "加强腹式呼吸，用鼻吸气，经口用力快速呼气"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "加强胸式呼吸，经鼻用力呼气"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "同时加强胸式和腹式呼吸"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查慢性阻塞性肺疾病呼吸功能锻炼的方法。慢性阻塞性肺疾病病人胸式呼吸的效能低于腹式呼吸，病人易疲劳，因此，指导病人呼吸功能锻炼的方法是训练缩唇呼气和腹式呼吸。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594695,
+        "name": "病人预行腹部手术，进手术室前嘱病人排尿主要是为了",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "防止膀胱膨胀"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "防止术中误伤膀胱"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "防止排尿污染无菌环境"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "防止在手术中排尿"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "防止手术后尿潴留"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "病人腹部手术，进手术室前嘱病人排尿主要是为了排空膀胱，防止术中误伤膀胱。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594696,
+        "name": "无菌条件下配制的要素饮食，冷藏的有效期为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "24小时"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "2小时"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "12小时"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "8小时"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "4小时"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "在无菌条件下配制的要素饮食，冷藏的有效期为24小时。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594697,
+        "name": "关于心源性水肿，常首先表现在",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "足踝部、胫骨前水肿"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "腹水"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "心前区水肿"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "眼睑水肿"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "胸腔积液或心包积液"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "右心功能不全时出现心源性水肿，早期在身体的下垂部位和组织疏松部位，表现为凹陷性水肿。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594698,
+        "name": "下列不属于新生儿窒息复苏步骤的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "清理呼吸道"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "建立呼吸评价"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "维持正常循环"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "药物治疗"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "预防感染"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查新生儿窒息的护理。新生儿窒息复苏的步骤：A：清理呼吸道；B：建立呼吸，增加通气；C：维持正常循环，保证足够心搏出量；D：药物治疗；E：评价和环境（保温）。其中 ABC三步最为重要，A是根本，B是关键，评价和保温贯穿于整个复苏过程。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594699,
+        "name": "新生儿开始抚触的时间，一般在出生后",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "1小时"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "8小时"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "12小时"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "24小时"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "48小时"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查婴儿抚触的方法。新生儿抚触一般在出生后24小时开始，应在沐浴后，两次哺乳之间进行。每次抚触10～15分钟，每日2～3次。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594700,
+        "name": "口服避孕药进行避孕，服药期间出现哪种情况应该到医院检查",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "闭经"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "月经量减少"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "色素沉着"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "头晕、乏力"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "体重增加"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查药物避孕。口服避孕药可有月经过少、不规则阴道流血、色素沉着、类早孕反应、体重增加等副反应，若服药期间出现闭经应到医院检查。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594701,
+        "name": "胎儿正常胎心率的范围是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "110～150次/min"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "120～150次/min"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "110～160次/min"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "120～160次/min"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "100～170次/min"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "正常胎心率为110～160次/min。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594702,
+        "name": "下列关于肿瘤化疗的护理叙述中，不正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "若出现药液外渗，应立即热敷"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "药液不可溢出静脉外"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "药液必须新鲜配制"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "每周检查白细胞和血小板计数"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "使用后的注射器和空药瓶应单独处理"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "抗癌药物不慎溢出需立即停止注药和输液，保留针头接注射器回抽后，注入解毒药再拔针，局部涂氢化可的松，冰敷24小时。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594703,
+        "name": "简易呼吸气囊的按压频率是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "8～12次/min"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "12～18次/min"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "16～18次/min"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "10～20次/min"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "20～30次/min"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "简易呼吸气囊用“EC”手法固定，每次压入500～600ml，潮气量每分钟按8～12次/min。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594704,
+        "name": "关于复苏后的护理，观察期间应",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "血压不考虑，常规吸氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "血压维持在略低水平，不必吸氧"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "血压维持在略高水平，常规吸氧"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "血压维持在略低水平，常规吸氧"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "血压维持在略高水平，不必吸氧"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "复苏后的治疗和护理：维持有效的循环、呼吸功能，血压维持在正常略高水平，常规吸氧。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594705,
+        "name": "病人，女性，65岁。子宫Ⅱ度脱垂合并阴道前后壁膨出，经阴道行子宫全切术加阴道前后壁修补术。手术后护理正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "留置导尿10～14天"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "术后3天开始活动"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "术后进少渣半流食8天"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "术后每日测生命体征2次至正常"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "术后平卧位1天，次日起半卧位"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查子宫脱垂的护理措施。子宫脱垂手术后，要求卧床7～10天，取平卧位，禁止增加腹压；留置导尿10～14天；采用流食或无渣半流食1～2天。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594706,
+        "name": "病人，女性，46岁。近1年来月经周期不规则，并且出现潮热、出汗、睡眠障碍等症状，诊断为围绝经期综合征。以下护理措施不对的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "定期健康体检"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "合理饮食，增加蛋白质和钙的摄入"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "告知病人减少户外活动，防止骨折的发生"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "介绍绝经前、后的身心变化，使妇女做好心理准备"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "指导妇女促进睡眠的方法，必要时遵医嘱选用镇静药"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查围绝经期综合征的护理措施。围绝经期妇女因雌激素水平降低导致骨质疏松，较易发生骨折，应鼓励其坚持体育锻炼，户外活动接受日光照射，适当补钙和维生素D，以促进钙的吸收。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594707,
+        "name": "赵先生，40岁。行腰椎结核手术，术后为预防截瘫的发生。最重要的护理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "绝对卧床，颈部牵引"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "密切观察四肢活动情况"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "搬动病人或翻身时，保持身体动作一致"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "多饮水，预防下肢血栓形成"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "适当应用药物预防"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "瘫痪是脊柱结核的严重并发症，为预防脊髓、神经损伤，搬动病人或翻身时保持动作一致。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594708,
+        "name": "病人，女性，52岁。卵巢癌术后，关于留置导尿管的护理，正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "每天擦洗尿道口及导尿管1次"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "每天擦洗尿道口及导尿管2次"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "每天擦洗尿道口及导尿管3次"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "每天擦洗尿道口及导尿管4次"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "隔天擦洗尿道口及尿管1次"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查卵巢肿瘤的护理措施。卵巢癌术后留置导尿管的护理要求：在保留尿管期间，为了防止感染，应每天擦洗尿道口及尿管2次。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594709,
+        "name": "早产儿，出生后2天，胎龄33周。因发绀给予氧气吸入，为预防氧中毒，正确的护理是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "基于机械正压通气"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "吸氧浓度在70%～80%"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "连续吸氧时间不超过7天"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "维持动脉血氧分压在80～90mmHg"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "维持经皮血氧饱和度在88%～93%"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查早产儿的护理。早产儿呼吸中枢不健全，易发生缺氧和呼吸暂停，有缺氧症状者给予氧气吸入，吸入氧浓度以维持动脉血氧分压在50～80mmHg，或经皮血氧饱和度维持在88%～93%为宜，吸氧时间不宜过长，防止发生氧中毒。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594710,
+        "name": "病人，男性，45岁。频繁呕吐，多日不能饮食，出现脱水、低血钾症时，家属心急私自将补液速度加快，发生了高血钾，此时应采取的护理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "葡萄糖酸钙"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "碳酸氢钠"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "乳酸钠"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "氯化氨"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "硫酸镁"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "应用10%的葡萄糖酸钙溶液20～30ml，加等量5%的葡萄糖溶液，缓慢静脉注射，以钙离子对抗钾离子对心肌的抑制作用。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594711,
+        "name": "产妇，32岁，G₃P₂，足月妊娠，2天前经阴道顺产一足月女婴，自述下腹疼痛。查体：子宫硬，子宫底在下腹正中，脐下2横指，阴道出血略少于月经量。关于该孕妇下腹疼痛的问题，应该是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "产后宫缩痛"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "需要用镇痛药"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "一般1周后消失"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "与使用缩宫素无关"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "病理性的子宫收缩"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查产褥期妇女的临床表现。产褥早期因子宫收缩，常引起阵发性的腹部剧烈疼痛，尤其是经产妇更为明显，关于该孕妇下腹疼痛的问题，如题干无其他提示应该是产后宫缩痛，一般持续2～3天后会自行消失。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594712,
+        "name": "患儿男，9岁。以“双下肢皮疹1周，腹痛1天，便隐血（+）”入院，诊断过敏性紫癜。对该患儿的饮食应采取",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "禁食"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "半流食"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "无渣饮食"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "低盐饮食"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "低蛋白饮食"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "此患儿化验便隐血（+），说明胃肠道有少量出血，所以饮食上应进食软烂的无渣饮食，以减轻食物对胃肠道黏膜的刺激。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594713,
+        "name": "病人，男性，72岁。COPD病史8年。因咳嗽、气促加重1周入院。查体:呼吸急促，口唇发绀。血气分析：PaO₂50mmHg，PaCO₂55mmHg，pH7.35。目前首要的治疗措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "吸氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "保持呼吸道通畅"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "增加通气量"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "纠正酸碱平衡失调"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "给与呼吸兴奋药"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "该病人血气分析示Ⅱ型呼吸衰竭，为纠正缺O₂和CO₂潴留，目前最重要的措施是保持呼吸道通畅。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594714,
+        "name": "患儿，男，7个月，腹泻2天，每天10余次黄色稀水便，体重6kg。精神萎靡，皮肤弹性极差，前囟及眼窝明显凹陷，肢冷，血压偏低，口渴不明显，尿量极少，实验室检查：血清钠125mmol/L。护理措施有误的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "记录排便次数、量及性状"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "记录24小时出入液量"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "记录第1次排尿时间"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "补液速度为每小时5～8ml/kg"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "观察尿量及脱水是否纠正"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "该患儿重度脱水，应快速输入等张含钠液（2∶1液），按20ml/kg，总量不超过300ml，于30～60min内静脉推注或快速滴入。其余累积损失量常在8～12h内完成，每小时8～10ml/kg。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594715,
+        "name": "初产妇，30岁。于21:00顺利分娩一男婴，至次晨5:00未排尿，自诉下腹胀痛难忍，查体发现膀胱高度膨胀，首选的护理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "让其听流水声"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "用温水冲洗会阴"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "协助其坐起排尿"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "用手轻轻按摩下腹部"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "立即实行导尿术"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查产褥期妇女的护理。产后尿潴留，充盈的膀胱可影响子宫收缩，导致产后出血，产后4小时内应鼓励产妇及时排尿，防止尿潴留的发生，该产妇并发了尿潴留，需立即实行导尿术，解除尿潴留。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594716,
+        "name": "富先生，脑外伤术后。关于该病人的护理原则，下列说法错误的",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "康复训练应该及早进行"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "手术后出现癫痫的病人应在指导下长期服药"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "出院后继续鼻饲者要掌握方法"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "高血压病人应规律服药"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "骨瓣减压手术后病人，外出需要安全帽"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "功能锻炼应在病情稳定后早期开始。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594717,
+        "name": "患者，女，38岁。面色苍白，疲乏无力1个月，就诊查血红蛋白40g/L，诊断为缺铁性贫血，给予口服铁治疗。错误的护理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "补充铁剂同时补充蛋白质"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "补充剂同时铁补充维生素C"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "餐后饮浓茶可利于铁吸收"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "每天饮食中必须有含铁丰富的食物"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "铁剂从小剂量开始两餐之间服用"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "缺铁性贫血患者口服铁治疗，应从小剂量开始，于两餐之间服用。可与维生素C和稀盐酸同时服用，维生素C可防止二价铁氧化，稀盐酸可使三价铁转变为二价铁而利于铁的吸收。但避免与茶、咖啡、牛奶、植酸盐等同服，以免影响铁吸收。饮食应给予高蛋白、高维生素、含铁丰富的饮食。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594718,
+        "name": "患儿，女性，日龄5天。上颚中线和牙龈部有黄白色斑点，即“马牙”，护士应给予的护理方法是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "切开"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "用软布擦净"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "生理盐水清洗"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "不需要处理，可自行消失"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "2%碳酸氢钠溶液清洗"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "“马牙”或“板牙”是上皮细胞堆积或黏液腺分泌物积留所致，又称“上皮珠”，在生后数周到数月逐渐消失，不需要处理。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594719,
+        "name": "病人，女性，58岁。入院时结肠癌姑息切除术后，术中置空肠造瘘管，术后3天造瘘管给予肠内营养制剂（500ml/d）后不久，病人主诉腹部出现痉挛性疼痛，随之腹泻，考虑为肠内营养液温度过低所致，为避免此并发症应注意",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "在输注管近端自管外加热营养液，温度控制在65℃左右"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "在输注管远端自管外加热营养液，温度控制在65℃左右"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "在输注管近端自管外加热营养液，温度控制在37℃左右"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "在输注管远端自管外加热营养液，温度控制在37℃左右"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "先将肠内营养制剂连瓶加热到65℃再输注"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肠内营养输注时，应保持营养液温度接近体温，室温较低时可使用恒温加热器。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594720,
+        "name": "女性，29岁。产后5个月，哺乳期，无月经来潮，来医院咨询避孕措施，护士正确的指导是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "不需要避孕"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "阴茎套避孕"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "安全期避孕"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "皮下埋植剂避孕"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "口服避孕药避孕"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查避孕方法及护理。产妇产后在月经未复潮前即先恢复排卵，故应采取避孕措施，可选用工具法，包括男性工具法(避孕套)和女用工具法(宫内节育器)，该产妇母乳喂养不宜用口服避孕药及皮下埋植剂避孕。因激素可通过乳汁而影响婴儿，一般正常分娩者产后3个月，剖宫产者产后6个月可放宫内节育器。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594721,
+        "name": "张先生，52岁。诊断为急性下壁心肌梗死，其绝对卧床3天来未排便。下列哪项是最佳的排便措施",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "加强主动活动促进肠蠕动"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "做腹部加压按摩促进排粪"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "硫酸镁120g口服导泻"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "开塞露肛内注入"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "温盐水高位灌肠"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "对急性心肌梗死病人护理原则是减少刺激，减轻心脏负荷，减少心肌耗氧量。便秘可用开塞露肛内注入。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594722,
+        "name": "患者男，38岁。吸烟有15年，出现右下肢麻木、发凉、间歇性跛行5年。患者初次门诊，尤为重要的措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "使用抗生素"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "使用激素"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "使用免疫抑制药物"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "嘱患者防止受寒"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "嘱患者戒烟"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "该患者为血栓闭塞性脉管炎，本病的发生与吸烟相关，故嘱患者绝对戒烟，消除对血管的刺激。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594723,
+        "name": "病人，男性，34岁。诊断为消化性溃疡，医嘱给予西咪替丁治疗。护士指导其西咪替丁服药的时间为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "饭前1小时"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "疼痛发作时"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "饭后即刻"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "饭后1小时"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "饭前2小时"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "西咪替丁为H₂受体拮抗药，应在餐中或餐后即刻服用。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594724,
+        "name": "患者，男性，60岁。诊断为原发性肝癌，行肝叶切除术后第3天，出现嗜睡、烦躁不安、黄疸、少尿等。肝叶切除术后避免过早活动的目的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "保存体力"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "减少能量消耗"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "利于肝细胞再生"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "利于有效引流"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "避免肝断面出血"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肝叶切除术后避免过早活动的目的是避免肝断面出血。如出现心慌、气促、出冷汗，血压下降等血容量不足表现，应首先考虑肝断面出血。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594725,
+        "name": "病人，男性，62岁。有高血压病史8年，平素血压控制一般，近来感心悸、乏力，活动后出现心累、气促，休息后可缓解，病人可能出现了",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "慢性左心衰竭"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "急性肺水肿"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "高血压危象"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "慢性右心衰竭"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "急性左心衰竭"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "慢性心力衰竭是指持续存在的心力衰竭状态，高血压可导致心脏左心压力负荷增加，出现左心衰竭。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594726,
+        "name": "病人，女性，68岁。因脑出血入院，经治疗病情稳定，定于明日出院。责任护士告诉病人脑出血的诱因，其中不包括",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "酗酒"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "血液黏稠度高"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "用力排便"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "重体力劳动"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "情绪激动"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "脑出血多于情绪激动、体力劳动、饮酒、用力排便等情况下发生。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594727,
+        "name": "患者，男性，79岁。高血压30余年，因与他人争吵，突然出现头痛、呕吐、言语不清，跌倒在地，之后神志不清，大小便失禁。查体：昏迷，左侧瞳孔8mm，右侧3mm，血压24/13kPa（180/100mmHg），呼吸16次/分，脉搏54次/分。头颅CT示一侧基底节内囊区高密度影。目前首先应采取的措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "使用药物降血压"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "使用止血药物"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "脱水降颅压"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "立即手术"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "行脑室穿刺"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "应立即行脱水治疗，争得进一步治疗的时间。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594728,
+        "name": "患者女，16岁。2天前淋雨后出现咽干、咽痛、鼻塞、流涕。今起突然出现体温升高，咽痛加重，伴有畏寒。查体：体温39.5℃，咽部充血，扁桃体Ⅱ度肿大，充血，表面有黄色点状渗出物，颌下淋巴结肿大，有压痛，心肺（-）。该患者最可能的诊断是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "普通感冒"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "病毒性感冒"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "急性病毒性咽炎"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "急性病毒性喉炎"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "细菌性扁桃体炎"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "起病急，有明显咽痛、畏寒、发热，体温可达39℃以上；体检见咽部明显充血，扁桃体肿大、充血，表面有脓性分泌物，颌下淋巴结肿大伴咽痛。以上为急性咽-扁桃体炎的临床表现，多由溶血性链球菌引起。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594729,
+        "name": "患者，男，35岁。发热10天，心悸2天。心电图示：阵发性室性心动过速，心室率170次/分。静脉推注利多卡因无效，测血压70/42mmHg，应准备立即给予",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "非同步电复律"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "同步电复律"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "继续静脉注射利多卡因"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "静脉注射胺碘酮"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "静脉注射普鲁卡因胺"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "阵发性室性心动过速发作时治疗首选利多卡因静脉注射，其他药物有普鲁卡因胺、苯妥英钠、胺碘酮等。如上述药物无效，或病人已出现低血压、休克、心绞痛、充血性心力衰竭、脑血流灌注不足时，可用同步直流电复律。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594730,
+        "name": "患者，男，40岁。从高处跌下头部着地，颈4脊髓平面以下感觉、运动完全丧失，尿潴留，体温38℃，为了防止致死性并发症，最重要的措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "勤翻身，按摩骶部"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "留置导尿"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "高蛋白饮食"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "物理降温"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "气管切开"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "脊椎骨折多由间接暴力引起，一般都有交通事故、高空坠落等严重外伤史，合并截瘫时，损伤脊髓平面感觉、运动、反射及括约肌功能障碍，高位截瘫可致呼吸肌麻痹，出现呼吸困难，甚至呼吸停止。为防止患者发生呼吸衰竭，最重要的措施是气管切开。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594731,
+        "name": "患儿，4岁。风湿性心脏病合并充血性心力衰竭，心功能Ⅲ级，为患儿制定的活动计划的为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "绝对卧床休息"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "卧床休息"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "轻微室内活动"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "不需限制活动"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "不能从事重体力劳动"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "心功能Ⅲ级，体力活动明显受限。休息时无症状，低于平时一般活动量时即可引起上述症状，休息较长时间后\n症状方可缓解。应给予该患儿的活动指导是限制日常体力活动，以卧床休息为主。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594732,
+        "name": "病人，男性，58岁。有消化性溃疡病史10余年。因突然呕血约500ml，急诊以上消化道大出血入院。查体：神志清楚，血压100/60mmHg，心率110次/min。以下护理措施中正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "采用平卧位，头部略抬高"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "呕吐时头偏向一侧"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "三腔双囊管压迫止血"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "快速滴入血管升压素"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "给予流质饮食"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "对于上消化道出血呕血的病人，为避免误吸，保证呼吸道通畅，呕血时应头偏向一侧。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594733,
+        "name": "病人，女性，58岁。近一年来出现多饮、多食、多尿及体重下降，查空腹血糖9mmol/L，餐后2小时血糖15.1 mmol/L，诊断为2型糖尿病。医嘱给予格列美脲治疗，护士指导其用药，正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "该药应在早餐前30分钟服用"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "该药应在早餐后30分钟服用"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "该药作用时间短，应每餐前应用"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "该药应在进餐时服用"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "该药应在睡前服用"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "格列美脲为磺脲类降血糖药，作用于胰岛β细胞表面受体，可以促进胰岛素释放，该药应在早餐前30分钟服用，其主要不良反应为低血糖。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594734,
+        "name": "患者，男，39岁。吸烟10年。行走中左下肢间断疼痛1个月余。查体：左足趾色泽苍白，温度稍低，足背动脉搏动减弱，针对此患者，护理措施不恰当的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "置热水袋于足底保暖"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "下肢保暖"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "遵医嘱给予镇痛药物"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "每日数次Buerger运动"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "戒烟"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "患者末梢循环不良，应避免用热水袋给患肢直接加温。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594735,
+        "name": "钱先生，50岁。诊断为2型糖尿病，护士指导病人做运动。下列哪项是正确的",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "采取的锻炼方式为无氧运动"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "餐后1小时运动可达到较好的降糖效果"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "空腹运动可达到较好的降糖效果"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "运动不会导致低血糖"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "运动时间越长降糖效果越好"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "采取的锻炼方式为有氧运动；最好不要空腹运动；运动不当可导致低血糖、高血糖和酮症、心血管意外等；运动时间不宜过长，量力而行，循序渐进。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594736,
+        "name": "高先生，42岁。诊断胫腓骨骨折入院。次日出现患肢小腿部剧烈疼痛、肿胀、足趾麻木、足背动脉搏动微弱等症状。该病人目前关键的措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "及时行筋膜切开减压术"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "抬高患肢"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "密切观察病情变化"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "建立静脉通路"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "拆除外固定"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "骨筋膜室综合征一旦确诊，应立即切开减压，否则易导致肌肉坏死甚至截肢。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594737,
+        "name": "女，25岁。3小时前因车祸致左胸和腹部撞伤，主诉头晕、心慌。体检：面色苍白，四肢厥冷，左上腹可见皮肤瘀斑。左上腹及中下腹部均有压痛，轻反跳痛，无肌紧张，血压6.0/0kPa（45/0mmHg），心率140次/分。为此病人补液应首选",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "5%葡萄糖"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "10%葡萄糖盐溶液"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "3%氯化钠"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "平衡盐溶液"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "11.2%乳酸钠"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "平衡盐溶液主要是由无机盐、葡萄糖组成，它的作用是维持细胞渗透压平衡，保持pH值稳定及提供简单的营养。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594738,
+        "name": "患儿男，9个月。因化脓性脑膜炎入院，现患儿颅内压增高，遵医嘱给予甘露醇。下列哪项措施是正确的",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "缓慢静脉滴注"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "可以与其他药液混合滴注"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "尽量选择远端静脉"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "用量为1～2g/kg"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "药液中有结晶不影响使用"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "甘露醇滴注速度不宜过慢，不能与其他药物混滴，宜选粗直弹性好的血管，有结晶要等待结晶溶解后再用。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594739,
+        "name": "患者，男。行内镜下逆行胰胆管造影术，术后4小时诉腹部胀痛，查体：生命体征平稳，上腹部轻压痛。处理错误的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "患者卧床休息"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "查血、尿淀粉酶"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "观察腹部体征变化"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "嘱患者进全流食"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "静脉应用抗生素"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "内镜下逆行胰胆管造影术检查应于检查前禁食6～8h。检查后严密观察病人生命体征，有无腹痛、腹胀、呕吐、发热、黄疸等情况。术后禁食24h，根据病情逐步恢复饮食，监测血常规、血淀粉酶/脂肪酶等。根据病情遵医嘱应用抗生素。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594740,
+        "name": "初产妇，妊娠38周，临产10小时入院，自述疼痛难忍胎动频繁。入院检查:子宫腹部有压痛，子宫收缩间歇期不明显，胎位触不清，胎心不规则，子宫颈口开大2cm，未破膜，胎先露S=0。初步评估此产妇为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "潜伏期延长"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "活跃期延长"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "协调性宫缩乏力"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "不协调性宫缩乏力"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "不协调性子宫收缩过强"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查产力异常的临产表现。该孕妇子宫处于紧张状态，间歇期不明显，下腹部有压痛，胎位触不清，为不协调性宫缩乏力的表现。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594741,
+        "name": "患者，女30岁，因高热、咽痛、全身痛1周入院，查血象发现有幼稚白细胞，急做骨髓穿刺，骨髓象支持急性粒单细胞白血病，医生给予化疗药物同时口服别嘌呤醇100mg，3次/天。家属询问其服药原因，责任护士回答正确的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "抑制尿素合成"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "加强化疗药物疗效"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "加强尿素排出"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "抑制尿酸合成"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "增强机体免疫力"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "白血病患者服用化疗药物造成大量白血病细胞破坏，血清和尿液中尿酸浓度增高，可发生尿酸性肾结石，严重者可发生急性肾衰竭。别嘌醇可抑制黄嘌呤氧化酶，使次黄嘌呤及黄嘌呤不能转化为尿酸，即尿酸合成减少，进而降低血中尿酸盐在骨、关节及肾脏的沉着，是目前唯一能抑制尿酸合成的药物。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594742,
+        "name": "病人，男性，35岁。因高热2天未能进食，自述口渴、口干、尿少色黄。查体：口舌干燥、皮肤弹性差、眼窝凹陷，尿比重为1.028，血清钠浓度为156mmol /L。首先应给予输入",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "5%葡萄糖溶液"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "平衡液"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "3%～5%的氯化钠溶液"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "葡萄糖盐水"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "5%碳酸氢钠溶液"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "根据题干所述，病人考虑为高渗性脱水，首先应给予静脉滴注5%葡萄糖溶液，脱水症状基本纠正、血清钠降低后，再补充适量的等渗盐水。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594743,
+        "name": "患者，男，56岁。右上腹胀痛3个月，伴黄疸半月余。体检：肝肋下3cm,剑突下4cm，质硬，移动性浊音（+）。CT示：肝内占位性病变。诊断为原发性肝癌。手术适应症不包括",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "肝功能A级"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "癌肿局限于一个肝叶"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "肿块小于半肝"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "小肝癌"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "肿瘤侵及肝门"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肝切除术的适应症包括患者全身状况且好,无严重的心、肺、肾等重要脏器的器质性病变；肝功能正常或基本正常，无黄疸、腹水；肿瘤局限于肝的一叶或半肝，或肿瘤侵犯肝脏三个叶包余肝无明显肝硬化；无远处脏器广泛转移；肿瘤未严重侵犯第一、二、三肝门。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594744,
+        "name": "病人，女性，22岁。蛛网膜下腔阻滞（腰麻）注药后，先感胸闷，继而心悸、烦躁、恶心、呕吐、血压下降，随后呼吸困难，首先考虑为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "过敏反应"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "注射药物过快"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "药量过大"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "麻醉平面过高"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "中毒反应"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "腰麻麻醉平面过高，可发生恶心、呕吐、低血压和呼吸抑制。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594745,
+        "name": "患者男，38岁。饮酒后4小时出现上腹痛，14小时后出现呼吸困难，40次/min，高热，动脉血氧分压＜59.85mmHg，下列治疗不合适的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "禁食"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "胃肠减压"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "肾上腺糖皮质激素"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "人工呼吸机"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "阿托品"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "急腹症在未明确诊断前使用阿托品解痉会掩盖病情，E项不合适。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594746,
+        "name": "患儿，男，1岁2个月，高热来院就诊中突然出现惊厥，抗惊厥首选",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "氯丙嗪肌内注射"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "地西泮肌内注射"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "地西泮静脉注射"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "苯巴比妥肌内注射"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "10%水合氯醛灌肠"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "小儿高热惊厥，应用抗惊厥药物首选地西泮静脉注射，一次用量不能超过10mg。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594747,
+        "name": "病人，男性，53岁。患冠心病18年，今日突然神志丧失，呼吸不规则，即刻进行心肺复苏。心脏按压的频率是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "80次/min"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "100～120次/min"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "120次/min"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "60次/min"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "110次/min"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "国际心肺复苏标准操作流程：胸外心脏按压频率为100～120次/min。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594748,
+        "name": "患者，男，56岁。诊断为慢性肺源性心脏病，气短明显，活动后会加重。血气分析结果显示：PaO₂53mmHg，PaCO₂61mmHg。其氧疗原则是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "持续低流量给氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "以循序渐进的原则进行吸氧"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "持续高给氧流量"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "间歇性低流量给氧"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "12小时持续低流量吸氧15小时以上"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "慢性肺源性心脏病其氧疗原则是持续低流量给氧。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594749,
+        "name": "初产妇，28岁，40周妊娠，规律子宫收缩8小时，阴道检查示子宫口开大3cm，胎先露S=0，羊水Ⅱ度污染，胎心监护示晚期减速，胎心率100次/min。此时正确的处理措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "尽快行剖宫产术结束妊娠"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "行胎心监护，密切观察胎心变化"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "加强子宫收缩，尽快结束分娩"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "左侧卧位，持续低流量氧气吸入"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "密切观察产程进展，等待自然分娩"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查胎儿窘迫的护理措施。胎心监护示晚期减速提示子宫、胎盘功能不良，有胎儿缺氧的表现，加之第一产程，胎心率100次/min，提示胎儿窘迫。正确的处理措施是尽快行剖宫产术结束妊娠。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594750,
+        "name": "初产妇，28岁，40周妊娠，规律子宫收缩8小时，阴道检查示子宫口开大3cm，胎先露S=0，羊水Ⅱ度污染，胎心监护示晚期减速，胎心率100次/min。新生儿娩出后，正确的复苏程序是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "改善循环，预防感染，清理呼吸道，建立呼吸"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "建立呼吸，清理呼吸道，改善循环，预防感染"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "清理呼吸道，建立呼吸，预防感染，改善循环"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "清理呼吸道，建立呼吸，改善循环，预防感染"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "建立呼吸，清理呼吸道，预防感染，改善循环"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查新生儿窒息的护理措施。胎儿窘迫，新生儿娩出后，应立即清理呼吸道，建立呼吸，改善循环，预防感染。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594751,
+        "name": "陈先生，29岁。多发性创伤入院，入院头部CT提示脑挫裂伤，急诊行大脑开颅挫裂伤脑组织切除、去骨瓣减压手术。关于该病人的护理评估和措施，下列哪项是不正确的",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "术前需评估健康史、身体状况，对于心理社会状况则无需了解"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "术后评估手术方式、麻醉方式和术中经过"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "昏迷病人应加强口腔和皮肤护理"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "术后评估需了解引流管放置位置及引流情况"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "术后严密观察病情"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "术前评估应包括健康史、身体状况以及心理社会状况。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594752,
+        "name": "陈先生，29岁。多发性创伤入院，入院头部CT提示脑挫裂伤，急诊行大脑开颅挫裂伤脑组织切除、去骨瓣减压手术。病人术中留置创腔引流，下列哪项是创腔引流的护理措施",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "引流袋放置高度应低于头部创腔15～20cm"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "术后6小时，可将引流袋略放低"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "引流5～7天后，当血性脑脊液转清，即可拔除引流管"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "创腔引流的目的是引流血性渗液和气体，使残腔逐步闭合"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "术后取头低足高患侧卧位"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "创腔引流的目的是引流血性渗液和气体，使残腔逐步闭合。术后创腔引流袋放置于头旁枕上或枕边，高度应与头部创腔水平面保持一致，以保证创腔内一定的液体压力，以避免脑组织移位；高于创腔平面难以达到引流的目的。术后48小时后，可将引流袋略放低，以期较快引流出创腔内的液体。引流管放置3～4d，一旦血性脑脊液转清，即可拔除引流管,以免形成脑脊液漏。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594753,
+        "name": "某孕妇，29岁。G₂P₀，孕36周，发现下肢及外阴部静脉曲张。可能造成的主要原因是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "与站立有关"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "盆腔血液回流至下肢静脉的血量增加，加之增大的子宫压迫下腔静脉回流受阻"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "与左侧卧位有关"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "与活动量增加有关"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "与坐位有关"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "妊娠期盆腔血液回流至下腔静脉的血量增加，右旋增大的子宫又压迫下腔静脉使血液回流受阻，使孕妇下肢、外阴及直肠的静脉压增高，加之妊娠期静脉壁扩张，孕妇易发生痔，外阴及下肢静脉曲张。孕妇采取左侧卧位可以减少血液回流阻力。活动量增加和长时间站立、坐位会加重静脉曲张，但不是造成静脉曲张的主要原因。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594754,
+        "name": "某孕妇，29岁。G₂P₀，孕36周，发现下肢及外阴部静脉曲张。护理措施不妥当的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "减少站立活动"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "嘱其左侧卧位"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "减少活动量"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "抬高双下肢"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "绝对卧床休息"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "孕妇在发生下肢水肿时应采取左侧卧位，以解除右旋增大的子宫对下腔静脉的压迫，下肢垫高15°，避免长时间站或坐，以免加重水肿。减少活动量，适当休息，避免绝对卧床。长时间站立的孕妇，应两侧下肢轮流休息，收缩下肢肌肉，以利血液回流。适当限制对盐的摄入，但不必限制水分。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594755,
+        "name": "小儿，男，体重为12kg，身高为86cm，头围为48cm，出牙20个。该小儿的月龄应为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "10个月"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "12个月"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "15个月"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "20个月"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "24个月"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "生后第2年体重增加2.5～3.0kg，2岁后到青春前期体重增长趋于稳定，年增长2～3kg，到2岁时身长约为85～87cm，1岁以后头围增长明显减慢，2岁时为48cm。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594756,
+        "name": "小儿，男，体重为12kg，身高为86cm，头围为48cm，出牙20个。该小儿的腕部骨化中心数应为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "2个"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "3个"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "4个"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "5个"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "6个"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "腕部骨化中心用于判断骨骼发育情况。1～9岁小儿骨化中心数的计算公式：年龄＋1。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594757,
+        "name": "初产妇，29岁，足月妊娠，急产，胎儿娩出后产妇突然发生呼吸困难、发绀、心悸、血压下降，并迅速出现循环衰竭、休克及昏迷，阴道大量流血。该产妇可能发生了",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "子痫"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "虚脱"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "心力衰竭"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "羊水栓塞"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "疼痛性休克"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查羊水栓塞病人的临床表现。该产妇急难、发绀、心悸、血压下降，迅速出现循环衰竭、休克及昏迷，符合羊水栓塞的表现。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594758,
+        "name": "初产妇，29岁，足月妊娠，急产，胎儿娩出后产妇突然发生呼吸困难、发绀、心悸、血压下降，并迅速出现循环衰竭、休克及昏迷，阴道大量流血。为改善该产妇的呼吸状况，最佳的体位是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "半卧位"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "中凹位"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "平卧位"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "左侧卧位"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "头低臀高位"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "考查羊水栓塞病人的护理。急救过程中，护士应使羊水栓塞病人取半卧位，正压给氧，以利于缓解呼吸困难和缺氧征象。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594759,
+        "name": "患儿，女，5岁。自幼发绀，生长发育差，胸骨左缘第4肋间闻及Ⅱ级收缩期喷射性杂音，肺动脉瓣区第二心音减弱。该患儿所患疾病初步考虑为",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "法洛四联症"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "肺动脉狭窄"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "房间隔缺损"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "室间隔缺损"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "动脉导管未闭"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "法洛四联症患儿在查体时可见发育落后，口唇、面部、外耳廓亦有发绀，舌色发暗，杵状指(趾)。心前区略隆起，胸骨左缘2～4肋间有Ⅱ～Ⅲ级收缩期喷射性杂音，杂音响度与狭窄程度成反比，肺动脉瓣区第二心音减弱或者消失。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594760,
+        "name": "患儿，女，5岁。自幼发绀，生长发育差，胸骨左缘第4肋间闻及Ⅱ级收缩期喷射性杂音，肺动脉瓣区第二心音减弱。为进一步确诊，首选的检查方法是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "CT"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "心电图"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "X线胸片"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "磁共振"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "超声心动图"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "超声心动图可对心脏各腔室和血管大小进行定量测定,用以诊断心脏解剖上的异常及其严重程度，是先天性心脏病目前最常用的无创诊断方法。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594761,
+        "name": "患者，男性，67岁。既往体健。与他人争吵时突然跌倒，意识清醒，爬起后因左侧肢体无力再次跌倒，并出现大小便失禁，随后患者意识模糊、呼吸有鼾声，呈嗜睡状态，急诊入院，诊断为急性脑出血。该患者最可能出现的并发症是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "肾衰竭"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "脑疝"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "DIC"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "呼吸衰竭"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "心力衰竭"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "颅内疾病（脑水肿、血肿、脓肿、肿瘤）引起颅内压增高，部分脑组织从压力较高处向压力低处移动，通过正常生理孔道疝出的病理过程称为脑疝，是脑出血病人最常见的直接死亡原因。应密切观察瞳孔、意识、体温、脉搏、呼吸、血压等生命体征,如病人出现剧烈头痛、喷射性呕吐、烦躁不安、血压升高、脉搏减慢、意识障碍进行性加重、双侧瞳孔不等大、呼吸不规则等脑疝的先兆表现。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594762,
+        "name": "患者，男性，67岁。既往体健。与他人争吵时突然跌倒，意识清醒，爬起后因左侧肢体无力再次跌倒，并出现大小便失禁，随后患者意识模糊、呼吸有鼾声，呈嗜睡状态，急诊入院，诊断为急性脑出血。医嘱使用甘露醇静脉滴注的目的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "降血压"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "降颅压"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "镇静"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "抗感染"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "预防上消化道出血"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "立即为病人吸氧并迅速建立静脉通道，遵医嘱快速静脉滴注甘露醇或静脉注射呋塞米，甘露醇应在15〜30分钟内滴完，避免药物外渗。注意甘露醇的致肾衰作用，观察尿量和尿液颜色，定期复查电解质。备好气管切开包、脑室穿刺引流包、呼吸机、监护仪和抢救药品等。 ",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594763,
+        "name": "患者，男，55岁，出现头痛3个月，常发生于清晨，可伴癫病发作。经检查诊断为颅内占位性病变，颅内压增高，拟行开颅手术治疗。诊断颅内占位性病变，首选的检查方法是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "头颅CT"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "头颅X线平片"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "脑电图"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "脑血管造影"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "腰椎穿刺"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "头部CT或MRI（磁共振成像）检查是诊断颅内肿瘤的首选方法，不仅能明确诊断，而且能确定肿瘤的位置、大小及瘤周组织情况。头颅X线平片对诊断慢性高颅压性头痛的诊断价值较大。脑血管造影常用于诊断脑血管疾病，可明确脑缺血及脑出血的部位及程度。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594764,
+        "name": "患者，男，55岁，出现头痛3个月，常发生于清晨，可伴癫病发作。经检查诊断为颅内占位性病变，颅内压增高，拟行开颅手术治疗。用于降低颅内压的药物中效果最好且最常用的是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "50%葡萄糖"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "30%尿素"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "25%山梨醇"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "20%甘露醇"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "浓缩血清白蛋白"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "常用于降低颅内压的药物有20%甘露醇和甘油果糖等。甘露醇溶液性质稳定，脱水作用强，反跳现象轻，是当前应用最广泛的渗透性脱水剂，但大剂量应用可能对肾脏有损害。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594765,
+        "name": "\n患者，男，43岁。清晨起床时，发现四肢不能活动，既往甲亢病史5年。查体：突眼，眼及眼球活动自如，甲状腺Ⅰ度肿大，双下肢膝腱反射减退，无感觉障碍及肌萎缩。为明确诊断，应首先进行的检查项目是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "甲状腺功能测定及血电解质测定"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "胸部CT及血抗乙酰胆碱受体抗体测定"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "血抗乙酰胆碱受体抗体测定"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "头颅CT及血糖测定"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "肌电图及血电解质测定"
+          }
+        ],
+        "answer": "A",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "该患者有甲亢5年病史，现清晨起床发现四肢不能活动，突眼，甲状腺Ⅰ度肿大，双下肢膝腱反射减退，考虑是甲亢并发低钾血症，低钾血症最早出现的表现是肌无力，先是四肢无力，以后可延及躯干和呼吸肌。常有膝腱反射减弱或消失。为明确诊断，应首选血电解质测定及甲状腺功能测定。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594766,
+        "name": "患者，男，43岁。清晨起床时，发现四肢不能活动，既往甲亢病史5年。查体：突眼，眼及眼球活动自如，甲状腺Ⅰ度肿大，双下肢膝腱反射减退，无感觉障碍及肌萎缩。化验显示血钾2.8mmol/L，此患者的急诊处理是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "脱水降颅压治疗"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "吡啶斯的明和皮质激素治疗"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "静脉滴注氯化钾及胰岛素"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "螺内酯（安体舒通）治疗"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "纠正电解质紊乱"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "该患者血钾2.8mmol/L（血钾正常值3.5～5.5mmol/L），已存在低血钾，应静脉滴注氯化钾及胰岛素。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594767,
+        "name": "患者，男，43岁。清晨起床时，发现四肢不能活动，既往甲亢病史5年。查体：突眼，眼及眼球活动自如，甲状腺Ⅰ度肿大，双下肢膝腱反射减退，无感觉障碍及肌萎缩。经治疗后患者四肢活动正常。2年后，患者因车祸外伤收入院。提示可能发生甲亢危象的临床表现是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "食欲亢进，大便次数增多"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "怕热，多汗，常有消瘦"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "情绪不稳，多言好动"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "高热，体温＞39℃，心率增快140～240次/分"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "甲状腺弥漫性，对称性肿大"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "甲亢危象的临床表现是高热（体温＞39℃），大汗，心动过速（140～240次/分），常有心房颤动或心房扑动，烦躁，焦虑不安，谵妄，恶心，呕吐，腹泻，危重患者可有心力衰竭、休克及昏迷，病死率在20%以上。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594768,
+        "name": "前置胎盘的表现是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "阴道有血性分泌物"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "阴道出血量和贫血程度不一致且伴腹痛"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "无痛性反复阴道流血"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "分娩阻滞形成病理缩复环"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "分娩阻滞，剧烈腹痛后宫缩停止，病情恶化"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "无痛性反复阴道流血是前置胎盘的主要症状，偶有发生于妊娠20周左右者。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594769,
+        "name": "胎盘早剥的表现是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "阴道有血性分泌物"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "阴道出血量和贫血程度不一致且伴腹痛"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "无痛性反复阴道流血"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "分娩阻滞形成病理缩复环"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "分娩阻滞，剧烈腹痛后宫缩停止，病情恶化"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "胎盘早剥的隐性剥离可形成胎盘后血肿，其阴道出血量和贫血程度不一致。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594770,
+        "name": "新生儿补液时钾浓度\n",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "给予1/5～1/4张含钠液"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "不超过0.15%"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "按总量的3/4补充"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "按总量的2/3补充"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "按常规补充"
+          }
+        ],
+        "answer": "B",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "新生儿对水、电解质和酸碱平衡的调节功能差，对钠、氯的排泄功能低，易出现水肿和酸中毒，由于新生儿的生理特点，补液时应慎重。新生儿正常时血钾即偏高，生后几天内如无明显损失，短期补液可不给钾。生后10天如有明显缺钾时，应注意肾功能及尿量情况，每日给钾总量为2～3mmol/kg，浓度不超过0.15%，滴入速度宜慢。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594771,
+        "name": "婴幼儿肺炎补液时补液量",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "给予1/5～1/4张含钠液"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "不超过0.15%"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "按总量的3/4补充"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "按总量的2/3补充"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "按常规补充"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "小儿肺炎时因其肺循环阻力大，心脏负担较重，故在一般情况下，应尽量口服补液。若进食不足或不能进食必须静脉补液时，补液量要控制在生理需要量最低值，约为60～80ml/kg。如肺炎合并腹泻的补液原则与婴幼儿腹泻相同，但补液量按计算的3/4补充。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594772,
+        "name": "营养不良伴腹泻时补液量",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "给予1/5～1/4张含钠液"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "不超过0.15%"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "按总量的3/4补充"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "按总量的2/3补充"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "按常规补充"
+          }
+        ],
+        "answer": "D",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "营养不良伴腹泻时补液量应该按总量的2/3补充。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594773,
+        "name": "结核大咯血患者取",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "头低脚高45°的俯卧位"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "去枕平卧位"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "平卧位，头偏向一侧"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "端坐位"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "患侧卧位"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "肺结核中等或大量咯血时应严格卧床休息，取患侧卧位，可减少患侧胸部的活动度，既防止病灶向健侧扩散，同时有利于健侧肺的通气功能。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594774,
+        "name": "结核性胸膜炎胸痛患者取",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "头低脚高45°的俯卧位"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "去枕平卧位"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "平卧位，头偏向一侧"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "端坐位"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "患侧卧位"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "结核性胸膜炎患者发生胸痛时，需协助其取患侧卧位，必要时用宽胶布固定胸壁，以减少胸廓活动幅度，减轻疼痛。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594775,
+        "name": "急性心肌梗死时应采用的治疗措施",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "高流量吸氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "限制钠盐摄入"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "绝对卧床休息，遵医嘱给予肌注止痛药物"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "降低颅内压，制止抽搐"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "舌下含服硝酸甘油"
+          }
+        ],
+        "answer": "C",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "病人未行再灌注治疗前，应绝对卧床休息，保持环境安静,防止不良刺激，解除恐惧心理。选择以下药物尽快缓解疼痛，可给予吗啡静脉注射或哌替啶（杜冷丁）肌内注射。高氧状态会导致或加重未合并低氧血症的急性心肌梗死病人的心肌损伤。动脉血氧饱和度＞90%的病人不推荐常规吸氧。当病人合并低氧血症(SaO₂＜90%或PaO₂＜60mmHg)时应吸氧。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      },
+      {
+        "id": 594776,
+        "name": "心绞痛发作时应采取的治疗措施是",
+        "img_video": "",
+        "iv_type": 0,
+        "type": 1,
+        "option": [
+          {
+            "name": "A",
+            "value": "A",
+            "text": "高流量吸氧"
+          },
+          {
+            "name": "B",
+            "value": "B",
+            "text": "限制钠盐摄入"
+          },
+          {
+            "name": "C",
+            "value": "C",
+            "text": "绝对卧床休息，遵医嘱给予肌注止痛药物"
+          },
+          {
+            "name": "D",
+            "value": "D",
+            "text": "降低颅内压，制止抽搐"
+          },
+          {
+            "name": "E",
+            "value": "E",
+            "text": "舌下含服硝酸甘油"
+          }
+        ],
+        "answer": "E",
+        "tof": null,
+        "ref_answer": null,
+        "analyze": "硝酸酯类药物是最有效、作用最快终止心绞痛发作的药物。给予硝酸甘油0.5mg，舌下含化，1～2分钟开始起效，30分钟后作用消失。",
+        "analyze_file": "",
+        "file_type": 0,
+        "knowledge_point": null,
+        "star": 0,
+        "similar": 0,
+        "tag": 0,
+        "collect_status": 0
+      }
+    ]
+  },
+  "timestamp": 1712409059
+}
