@@ -1,96 +1,174 @@
 package main
 
-<<<<<<< HEAD
 import (
 	"context"
 	"fmt"
-	"log"
-	"net/http"
+	"math/rand"
 	"os"
 	"os/signal"
-	"strconv"
+	"sync"
 	"syscall"
 	"time"
-
-	"github.com/gin-gonic/gin"
 )
-
-// 模拟慢请求
-func sleep(ctx *gin.Context) {
-	t := ctx.Query("t")
-	s, err := strconv.Atoi(t)
-	if err != nil {
-		ctx.JSON(http.StatusBadRequest, gin.H{"msg": "参数错误: " + t})
-		return
-	}
-
-	time.Sleep(time.Duration(s) * time.Second)
-	ctx.JSON(http.StatusOK, gin.H{"msg": fmt.Sprintf("sleep %d s", s)})
-}
 
 const (
-	stateHealth   = "health"
-	stateUnHealth = "unhealth"
+	TimeTemplate = "15:04:05.999999999"
 )
 
-var state = stateHealth
+type Service interface {
+	GetName() string
+	Serve(ctx context.Context)
+	Shutdown() error
+}
 
-func health(ctx *gin.Context) {
-	status := http.StatusOK
-	if state == stateUnHealth {
-		status = http.StatusServiceUnavailable
+type BusinessService struct {
+}
+
+func (b *BusinessService) GetName() string {
+	return "BusinessService"
+}
+
+func (b *BusinessService) Serve(ctx context.Context) {
+	for {
+		fmt.Printf("BusinessService serve run at %s\n", time.Now().Format(TimeTemplate))
+		select {
+		case <-ctx.Done():
+			fmt.Printf("111111111111 %s\n", time.Now().Format(TimeTemplate))
+			return
+		default:
+		}
+		time.Sleep(time.Second)
 	}
-	ctx.JSON(status, gin.H{"data": state})
+	return
+}
+
+func (b *BusinessService) Shutdown() error {
+	fmt.Printf("BusinessService shutdown begin... at %s\n", time.Now().Format(TimeTemplate))
+	defer func() {
+		fmt.Printf("BusinessService shutdown end... at %s\n", time.Now().Format(TimeTemplate))
+	}()
+	return nil
+}
+
+type LogService struct {
+	buffer []string
+}
+
+func (l *LogService) Serve(ctx context.Context) {
+	for {
+		select {
+		case <-ctx.Done():
+			fmt.Printf("2222222222 %s\n", time.Now().Format(TimeTemplate))
+			return
+		default:
+			// 0.5s append one log
+			time.Sleep(500 * time.Millisecond)
+			l.buffer = append(l.buffer, fmt.Sprintf("Time: %d", time.Now().Unix()))
+		}
+	}
+}
+
+func (b *LogService) GetName() string {
+	return "LogService"
+}
+
+func (l *LogService) Shutdown() (err error) {
+	fmt.Printf("LogService shutdown begin... at %s\n", time.Now().Format(TimeTemplate))
+	defer fmt.Printf("LogService shutdown end... at %s\n", time.Now().Format(TimeTemplate))
+	if len(l.buffer) == 0 {
+		return
+	}
+	fmt.Printf("cache [%d] wait to send \n", len(l.buffer))
+	for _, log := range l.buffer {
+		fmt.Printf("send Log [%s]\n", log)
+	}
+	return
+}
+
+type ServiceGroup struct {
+	ctx      context.Context
+	cancel   func()
+	services []Service //service list
+}
+
+func NewServiceGroup(ctx context.Context) *ServiceGroup {
+	g := ServiceGroup{}
+	g.ctx, g.cancel = context.WithCancel(ctx)
+	return &g
+}
+
+func (s *ServiceGroup) Add(service Service) {
+	s.services = append(s.services, service)
+}
+
+func (s *ServiceGroup) run(service Service) (err error) {
+	defer func() {
+		if r := recover(); r != nil {
+			err = r.(error)
+			fmt.Printf("receive panic msg: %s\n", err.Error())
+		}
+	}()
+	//with cancel ctx to child context
+	service.Serve(s.ctx)
+	return
+}
+
+func (s *ServiceGroup) watchDog() {
+	signalChan := make(chan os.Signal, 1)
+	signal.Notify(signalChan, syscall.SIGINT, syscall.SIGTERM)
+	for {
+		select {
+		case signalData := <-signalChan:
+			switch signalData {
+			case syscall.SIGINT:
+				fmt.Println("receive signal sigint")
+			case syscall.SIGTERM:
+				fmt.Println("receive signal sigerm")
+			default:
+				fmt.Println("receive singal unknown")
+			}
+			// do cancel notify all services cancel
+			s.cancel()
+			goto CLOSE
+		case <-s.ctx.Done():
+			goto CLOSE
+		}
+	}
+CLOSE:
+	for _, service := range s.services {
+		if err := service.Shutdown(); err != nil {
+			fmt.Printf("shutdown failed err: %s", err)
+		}
+	}
+}
+
+func (s *ServiceGroup) ServeAll() {
+	var wg sync.WaitGroup
+	for idx := range s.services {
+		service := s.services[idx]
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			if err := s.run(service); err != nil {
+				fmt.Printf("receive service [%s] has error: 【%s】, do cancel\n", service.GetName(), err.Error())
+				s.cancel()
+			}
+		}()
+	}
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		s.watchDog()
+	}()
+	wg.Wait()
 }
 
 func main() {
-	e := gin.Default()
-	e.GET("/health", health)
-	e.GET("/sleep", sleep)
+	rand.Seed(time.Now().Unix())
+	ctx := context.Background()
 
-	server := &http.Server{
-		Addr:    ":8080",
-		Handler: e,
-	}
-
-	go func() {
-		if err := server.ListenAndServe(); err != nil && err != http.ErrServerClosed {
-			log.Fatalf("server run err: %+v", err)
-		}
-	}()
-
-	// 用于捕获退出信号
-	quit := make(chan os.Signal)
-
-	// kill (no param) default send syscall.SIGTERM
-	// kill -2 is syscall.SIGINT
-	// kill -9 is syscall.SIGKILL but can't be catch, so don't need add it
-	signal.Notify(quit, syscall.SIGINT, syscall.SIGTERM)
-	<-quit
-	log.Println("Shutting down server...")
-
-	// 捕获到退出信号之后将健康检查状态设置为 unhealth
-	state = stateUnHealth
-	log.Println("Shutting down state: ", state)
-
-	// 设置超时时间，两个心跳周期，假设一次心跳 3s
-	ctx, cancel := context.WithTimeout(context.Background(), 6*time.Second)
-	defer cancel()
-
-	// Shutdown 接口，如果没有新的连接了就会释放，传入超时 context
-	// 调用这个接口会关闭服务，但是不会中断活动连接
-	// 首先会将端口监听移除
-	// 然后会关闭所有的空闲连接
-	// 然后等待活动的连接变为空闲后关闭
-	// 如果等待时间超过了传入的 context 的超时时间，就会强制退出
-	// 调用这个接口 server 监听端口会返回 ErrServerClosed 错误
-	// 注意，这个接口不会关闭和等待websocket这种被劫持的链接，如果做一些处理。可以使用 RegisterOnShutdown 注册一些清理的方法
-	if err := server.Shutdown(ctx); err != nil {
-		log.Fatal("Server forced to shutdown:", err)
-	}
-
-	log.Println("Server exiting")
-=======
-func main() {
->>>>>>> 872bfde7b2978a94e4a04ec0777a615955aac8da
+	g := NewServiceGroup(ctx)
+	g.Add(&LogService{})
+	g.Add(&BusinessService{})
+	g.ServeAll()
 }
