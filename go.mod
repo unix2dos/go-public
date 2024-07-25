@@ -1,6 +1,6 @@
 module golangTest
 
-go 1.16
+go 1.22.5
 
 require (
 	github.com/fogleman/gg v1.3.0
