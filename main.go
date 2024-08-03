@@ -1,40 +1,29 @@
 package main
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
 
-type ReadWriter interface {
-	~string | ~[]rune
+	"github.com/mitchellh/mapstructure"
+)
 
-	Read(p []byte) (n int, err error)
-	Write(p []byte) (n int, err error)
+type Person struct {
+	NameValue string `mapstructure:"name_value"`
+	AgeValue  int    `mapstructure:"age_value"`
+	JobValue  string `mapstructure:"job_value,omitempty"`
 }
 
 func main() {
-	b := BytesReadWriter("str")
-	b.Write([]byte("hello"))
+	p := &Person{
+		NameValue: "dj",
+		AgeValue:  18,
+	}
 
-	//var i ReadWriter  // 不行，因为不能定义变量
-	//i = b
-	//i.Write([]byte("world"))
-}
+	var m map[string]interface{}
+	mapstructure.Decode(p, &m)
 
-// 类型 StringReadWriter 实现了接口 Readwriter
-type StringReadWriter string
+	fmt.Println("map", m)
 
-func (s StringReadWriter) Read(p []byte) (n int, err error) {
-	return
-}
-func (s StringReadWriter) Write(p []byte) (n int, err error) {
-	fmt.Println("111", string(p))
-	return
-}
-
-// 类型BytesReadWriter 没有实现接口 Readwriter, 既不是string也是不[]rune
-type BytesReadWriter []byte
-
-func (s BytesReadWriter) Read(p []byte) (n int, err error) {
-	return
-}
-func (s BytesReadWriter) Write(p []byte) (n int, err error) {
-	return
+	data, _ := json.Marshal(m)
+	fmt.Println("str", string(data))
 }
