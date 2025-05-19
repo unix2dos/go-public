@@ -1,29 +1,37 @@
 package main
 
 import (
-	"encoding/json"
+	"crypto/sha256"
+	"encoding/binary"
 	"fmt"
-
-	"github.com/mitchellh/mapstructure"
 )
 
-type Person struct {
-	NameValue string `mapstructure:"name_value"`
-	AgeValue  int    `mapstructure:"age_value"`
-	JobValue  string `mapstructure:"job_value,omitempty"`
-}
+const (
+	initialExperimentRatio = 0.5
+	updatedExperimentRatio = 0.7
+)
 
 func main() {
-	p := &Person{
-		NameValue: "dj",
-		AgeValue:  18,
+	users := []string{"user1", "user2", "user3", "user4", "user5", "user6", "user7", "user8", "user9", "user10"}
+
+	for _, user := range users {
+		initialGroup := assignGroup(user, initialExperimentRatio)
+		updatedGroup := assignGroup(user, updatedExperimentRatio)
+
+		fmt.Printf("User: %s, Initial Group: %s, Updated Group: %s\n", user, initialGroup, updatedGroup)
 	}
+}
 
-	var m map[string]interface{}
-	mapstructure.Decode(p, &m)
+func assignGroup(userID string, experimentRatio float64) string {
+	hash := sha256.Sum256([]byte(userID))
+	hashValue := binary.BigEndian.Uint64(hash[:8])
 
-	fmt.Println("map", m)
+	// Normalize the hash value to a [0, 1) range
+	normalizedValue := float64(hashValue) / float64(^uint64(0))
 
-	data, _ := json.Marshal(m)
-	fmt.Println("str", string(data))
+	if normalizedValue < experimentRatio {
+		return "Experiment"
+	} else {
+		return "Control"
+	}
 }
