@@ -1,4 +1,4 @@
-# golang test project
+# golang-public
 
 
 
