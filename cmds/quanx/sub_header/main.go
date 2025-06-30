@@ -19,11 +19,9 @@ AMY
 Subscription-UserInfo
 upload=2658137767; download=20245549223; total=53687091200; expire=1699574400
 
-
 GlaDos
 Subscription-Userinfo
 upload=1; download=30725596593; total=214748364800; expire=1703217450
-
 */
 func main() {
 	router := gin.Default()
@@ -40,12 +38,8 @@ func glados(c *gin.Context) {
 	name := c.Query("name")
 	switch name {
 	case "2": // 500G
-		urlC = "https://update.glados-config.org/clash/130417/5138411/88714/glados.yaml"
-		urlQ = "https://update.glados-config.com/quantumultx/130417/ba4b8edab08ddc16"
 		count = gladosUsage("Cookie=enabled; Cookie.sig=lbtpENsrE0x6riM8PFTvoh9nepc; koa:sess=eyJ1c2VySWQiOjEzMDQxNywiX2V4cGlyZSI6MTY5NTM0MjMyMzk2NywiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=YRqd6u97FsK-OlRaku9nMkBSSmc")
 	case "3": // 200G
-		urlC = "https://update.glados-config.com/clash/122722/1f36602/153430/glados.yaml"
-		urlQ = "https://update.glados-config.com/quantumultx/122722/a1d5677925852fca"
 		count = gladosUsage("Cookie=enabled; Cookie.sig=lbtpENsrE0x6riM8PFTvoh9nepc; cf_clearance=QU0o65Dhf76G3ha1kMXvYVZmLo2ZBU.eRAs5S4pdcbk-1669422581-0-160; koa:sess=eyJ1c2VySWQiOjEyMjcyMiwiX2V4cGlyZSI6MTY5NTQzNjE0MjI2OSwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=NoSBkwH-owFbBLAk_L7oXIkukr4")
 	}
 	fmt.Println("glados", urlC, urlQ)
@@ -135,9 +129,7 @@ func shadow(c *gin.Context) {
 	name := c.Query("name")
 	switch name {
 	case "1":
-		url = "https://s.trojanflare.com/subscription/quantumultx/b6402d33-484d-4a0b-8b3f-82424e1a55fd"
 	case "2":
-		url = "https://s.trojanflare.com/subscription/quantumultx/47aa849f-4228-4b84-ad87-aa5e4d9d09fe"
 	}
 	client := resty.New()
 	resp, _ := client.R().Get(url)
